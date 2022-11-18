@@ -14,6 +14,8 @@ Tool was built on Ubuntu 22.
 
 Execute `cont` to get usage information.
 
+Manually get name of your network interface and write it into `link` file.
+
 ## Usage
 
 Usage: `cont [command]`
