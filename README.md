@@ -16,7 +16,7 @@ Execute `cont` to get usage information.
 
 ## Usage
 
-Usage: cont [command]
+Usage: `cont [command]`
 
 Commands:
 * `list` List all local containers
